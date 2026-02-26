@@ -37,7 +37,6 @@ Dropout: 0.3
 
 Early Stopping Patience: 15
 
-📂 Project Structure
 braintumor4classes/
 │
 ├── train/                # Training dataset
@@ -52,8 +51,6 @@ braintumor4classes/
 ├── README.md
 ├── LICENSE
 └── .gitignore
-🏋️ 
-
 Training Code
 
 
