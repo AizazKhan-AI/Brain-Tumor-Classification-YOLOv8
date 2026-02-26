@@ -37,13 +37,16 @@ Dropout: 0.3
 
 Early Stopping Patience: 15
 
+## 📂 Project Structure
+
+```
 braintumor4classes/
 │
 ├── train/                # Training dataset
 ├── val/                  # Validation dataset
 ├── test/                 # Testing dataset
 ├── External_Dataset/     # External evaluation dataset
-├── classification_task/  # External evaluation dataset
+├── classification_task/  # Classification experiments
 ├── runs/                 # Training results & saved weights
 │
 ├── train_yolov8.py       # Main training script
@@ -51,6 +54,7 @@ braintumor4classes/
 ├── README.md
 ├── LICENSE
 └── .gitignore
+```
 Training Code
 
 
