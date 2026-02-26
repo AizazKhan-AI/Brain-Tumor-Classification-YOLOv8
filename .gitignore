@@ -1,0 +1,15 @@
+# Ignore dataset folders
+train/
+val/
+test/
+External_Dataset/
+classification_task/
+
+# Ignore YOLO outputs
+runs/
+
+# Ignore model weights
+*.pt
+
+# Ignore cache
+__pycache__/
