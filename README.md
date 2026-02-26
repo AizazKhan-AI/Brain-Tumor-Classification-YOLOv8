@@ -2,7 +2,6 @@ Brain Tumor Classification using YOLOv8
 📌 Project Overview
 
 This project implements Brain Tumor MRI Image Classification using YOLOv8 Classification Model from Ultralytics.
-
 The model classifies brain MRI images into four categories:
 
 Glioma
